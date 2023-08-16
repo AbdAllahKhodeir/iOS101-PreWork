@@ -20,8 +20,9 @@ Here's a walkthrough of implemented user stories:
 
 <!-- <img src='https://imgur.com/a/nALcBOB.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /> -->
 
-![Kapture 2023-08-16 at 01 51 05](https://github.com/AbdAllahKhodeir/iOS101-PreWork/assets/25985196/186f8c3b-af0f-4914-a8e4-1e0a6124062d)
 
+
+![Kapture 2023-08-16 at 01 51 05](https://github.com/AbdAllahKhodeir/iOS101-PreWork/assets/25985196/1a819bdc-a556-48b8-acda-06ca63c1f209)
 
 
 GIF created with [Kap](https://getkap.co/) for macOS
