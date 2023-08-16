@@ -2,7 +2,8 @@
 
 Submitted by: **AbdAllah Khodeir**
 
-**Color Picker** is an app that... [TODO] 
+**Color Picker** is an app that display information about me, name, school, and my desired role, and also have a button that randomly change background color.
+
 
 Time spent: **2** hours spent in total
 
@@ -17,7 +18,8 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/AbdAllahKhodeir/iOS101-PreWork/assets/25985196/ae64cbd3-3838-483c-b6e9-56aa5410e271' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
