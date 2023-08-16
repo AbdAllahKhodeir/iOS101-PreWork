@@ -47,7 +47,7 @@ List of Apps I like
 
 ## App Improvement Idea:
 
-An enhancement for the LinkedIn iOS app could be the integration of a "Career Path Insights" feature. This feature would leverage AI and machine learning to analyze a user's professional journey, educational background, skills, and industry trends. It would then provide personalized recommendations and insights on potential career paths, job transitions, and skill development opportunities. The app would offer suggestions for relevant courses, certifications, or networking events that align with the user's desired career trajectory. Additionally, it could highlight profiles of successful professionals who have followed similar paths, showcasing their achievements and offering inspiration. 
+An enhancement for the LinkedIn iOS app could be the integration of a **Career Path Insights** feature. This feature would leverage AI and machine learning to analyze a user's professional journey, educational background, skills, and industry trends. It would then provide personalized recommendations and insights on potential career paths, job transitions, and skill development opportunities. The app would offer suggestions for relevant courses, certifications, or networking events that align with the user's desired career trajectory. Additionally, it could highlight profiles of successful professionals who have followed similar paths, showcasing their achievements and offering inspiration. 
 
 ## Notes
 
