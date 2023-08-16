@@ -18,17 +18,14 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/AbdAllahKhodeir/iOS101-PreWork/assets/25985196/ae64cbd3-3838-483c-b6e9-56aa5410e271' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/gmWFeWH' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+GIF created with [Kap](https://getkap.co/) for macOS
 
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
 
 ## App Brainstorming (Step 4)
+
 
 ## Notes
 
