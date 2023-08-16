@@ -1,8 +1,8 @@
-# Prework - *Color Picker*
+# Prework - *Random Background*
 
 Submitted by: **AbdAllah Khodeir**
 
-**Color Picker** is an app that display information about me, name, school, and my desired role, and also have a button that randomly change background color.
+**Color Picker** is an app that displays information about me, my name, my school, and my desired role, and also has a button that randomly changes the background color.
 
 
 Time spent: **2** hours spent in total
@@ -11,7 +11,7 @@ Time spent: **2** hours spent in total
 
 The following **required** functionality is completed:
 
-- [X] Users are see a screen with three labels and a button
+- [X] Users see a screen with three labels and a button
 - [X] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
