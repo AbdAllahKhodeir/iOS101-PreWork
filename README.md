@@ -18,9 +18,10 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/a/nALcBOB.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<!-- <img src='https://imgur.com/a/nALcBOB.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /> -->
 
-<!-- <blockquote class="imgur-embed-pub" lang="en" data-id="a/nALcBOB" data-context="false" ><a href="//imgur.com/a/nALcBOB"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script> -->
+![Kapture 2023-08-16 at 01 44 38](https://github.com/AbdAllahKhodeir/iOS101-PreWork/assets/25985196/567d43e3-ddbc-49b9-8aff-7dc397af4807)
+
 
 GIF created with [Kap](https://getkap.co/) for macOS
 
