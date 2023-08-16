@@ -18,9 +18,9 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<!-- <img src='https://imgur.com/a/gmWFeWH.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /> -->
+<img src='https://imgur.com/a/nALcBOB' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/nALcBOB" data-context="false" ><a href="//imgur.com/a/nALcBOB"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<!-- <blockquote class="imgur-embed-pub" lang="en" data-id="a/nALcBOB" data-context="false" ><a href="//imgur.com/a/nALcBOB"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script> -->
 
 GIF created with [Kap](https://getkap.co/) for macOS
 
