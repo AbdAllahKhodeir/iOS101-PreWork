@@ -2,7 +2,7 @@
 
 Submitted by: **AbdAllah Khodeir**
 
-**Color Picker** is an app that displays information about me, my name, my school, and my desired role, and also has a button that randomly changes the background color.
+**Random Background** is an app that displays information about me, my name, my school, and my desired role, and also has a button that randomly changes the background color.
 
 
 Time spent: **2** hours spent in total
